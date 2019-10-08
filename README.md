@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This was a tutorial ran by: https://blog.rapidapi.com/how-to-use-an-api-with-ruby/
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.4.1
 
-* System dependencies
+* Rails 5.2.3
 
-* Configuration
+* Instructions to run:
+  1. go fetch (personal) API key from, Rapid API
+  2. run the command: RAPIDAPI_API_KEY='Personal_API_KEY_HERE' rails server
+     + (no quotation marks)
+  3. open on localhost:3000
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
